@@ -1,5 +1,1 @@
-<?php
-
-echo "Youpi from github!";
-
-?>
+<?php echo "Youpi from github!"; ?>
